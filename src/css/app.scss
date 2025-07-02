@@ -90,7 +90,7 @@
 
 .goto-highlight {
   animation: blink 1s infinite;
-  box-shadow: 0 0 10px 3px rgba(33, 186, 69, 0.5);
+  box-shadow: 0 0 10px 3px var(--q-primary);
 }
 
 @keyframes blink {
